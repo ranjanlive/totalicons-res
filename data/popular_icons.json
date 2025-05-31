@@ -1,0 +1,42 @@
+[
+  {
+    "id": "icon-001",
+    "name": "Home",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/home.svg"
+  },
+  {
+    "id": "icon-004",
+    "name": "Search",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/search.svg"
+  },
+  {
+    "id": "icon-005",
+    "name": "User",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/user.svg"
+  },
+  {
+    "id": "icon-006",
+    "name": "Message",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/message.svg"
+  },
+  {
+    "id": "icon-003",
+    "name": "Heart",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/heart.svg"
+  },
+  {
+    "id": "icon-011",
+    "name": "Facebook",
+    "file_path": "https://res.totalicons.com/icons/07-06-2025/facebook.svg"
+  },
+  {
+    "id": "icon-013",
+    "name": "Instagram",
+    "file_path": "https://res.totalicons.com/icons/07-06-2025/instagram.svg"
+  },
+  {
+    "id": "icon-021",
+    "name": "Discord",
+    "file_path": "https://res.totalicons.com/icons/07-06-2025/discord.svg"
+  }
+]

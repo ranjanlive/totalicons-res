@@ -1,0 +1,134 @@
+{
+  "id": "social-media-neon",
+  "name": "Social Media Neon",
+  "description": "A vibrant collection of neon-style social media icons perfect for modern websites and digital marketing materials. Each icon is carefully crafted with a glowing neon effect that stands out in dark environments.",
+  "version": "1.0.0",
+  "created": "2025-05-25",
+  "updated": "2025-05-25",
+  "author": "TotalIcons Design Team",
+  "license": "MIT",
+  "style": "neon",
+  "total_icons": 20,
+  "icons": [
+    {
+      "id": "smn-001",
+      "name": "Facebook",
+      "tags": ["facebook", "social", "fb"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/facebook.svg"
+    },
+    {
+      "id": "smn-002",
+      "name": "Instagram",
+      "tags": ["instagram", "social", "ig", "photo"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/instagram.svg"
+    },
+    {
+      "id": "smn-003",
+      "name": "Twitter",
+      "tags": ["twitter", "social", "tweet", "x"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/twitter.svg"
+    },
+    {
+      "id": "smn-004",
+      "name": "LinkedIn",
+      "tags": ["linkedin", "social", "professional", "network"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/linkedin.svg"
+    },
+    {
+      "id": "smn-005",
+      "name": "TikTok",
+      "tags": ["tiktok", "social", "video"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/tiktok.svg"
+    },
+    {
+      "id": "smn-006",
+      "name": "YouTube",
+      "tags": ["youtube", "social", "video"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/youtube.svg"
+    },
+    {
+      "id": "smn-007",
+      "name": "Pinterest",
+      "tags": ["pinterest", "social", "pin"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/pinterest.svg"
+    },
+    {
+      "id": "smn-008",
+      "name": "Snapchat",
+      "tags": ["snapchat", "social", "snap"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/snapchat.svg"
+    },
+    {
+      "id": "smn-009",
+      "name": "WhatsApp",
+      "tags": ["whatsapp", "social", "chat", "message"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/whatsapp.svg"
+    },
+    {
+      "id": "smn-010",
+      "name": "Reddit",
+      "tags": ["reddit", "social", "forum"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/reddit.svg"
+    },
+    {
+      "id": "smn-011",
+      "name": "Discord",
+      "tags": ["discord", "social", "chat", "gaming"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/discord.svg"
+    },
+    {
+      "id": "smn-012",
+      "name": "Telegram",
+      "tags": ["telegram", "social", "message"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/telegram.svg"
+    },
+    {
+      "id": "smn-013",
+      "name": "Twitch",
+      "tags": ["twitch", "social", "streaming", "gaming"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/twitch.svg"
+    },
+    {
+      "id": "smn-014",
+      "name": "Slack",
+      "tags": ["slack", "social", "work", "collaboration"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/slack.svg"
+    },
+    {
+      "id": "smn-015",
+      "name": "Dribbble",
+      "tags": ["dribbble", "social", "design"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/dribbble.svg"
+    },
+    {
+      "id": "smn-016",
+      "name": "Medium",
+      "tags": ["medium", "social", "blog"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/medium.svg"
+    },
+    {
+      "id": "smn-017",
+      "name": "Behance",
+      "tags": ["behance", "social", "design", "portfolio"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/behance.svg"
+    },
+    {
+      "id": "smn-018",
+      "name": "Vimeo",
+      "tags": ["vimeo", "social", "video"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/vimeo.svg"
+    },
+    {
+      "id": "smn-019",
+      "name": "GitHub",
+      "tags": ["github", "social", "code", "development"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/github.svg"
+    },
+    {
+      "id": "smn-020",
+      "name": "Spotify",
+      "tags": ["spotify", "social", "music"],
+      "file_path": "https://res.totalicons.com/icons/07-06-2025/spotify.svg"
+    }
+  ]
+}

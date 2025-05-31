@@ -1,0 +1,122 @@
+[
+  {
+    "id": "icon-044",
+    "name": "Link",
+    "category": "Interface Elements",
+    "tags": ["url", "connect", "chain", "hyperlink"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/link.svg"
+  },
+  {
+    "id": "icon-045",
+    "name": "Image",
+    "category": "Interface Elements",
+    "tags": ["picture", "photo", "gallery", "media"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/image.svg"
+  },
+  {
+    "id": "icon-046",
+    "name": "Video",
+    "category": "Interface Elements",
+    "tags": ["movie", "film", "play", "media", "camera"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/video.svg"
+  },
+  {
+    "id": "icon-047",
+    "name": "Music",
+    "category": "Interface Elements",
+    "tags": ["audio", "sound", "note", "song", "media"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/music.svg"
+  },
+  {
+    "id": "icon-048",
+    "name": "User Plus",
+    "category": "Interface Elements",
+    "tags": ["add user", "new account", "register", "friend request"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/user-plus.svg"
+  },
+  {
+    "id": "icon-049",
+    "name": "User Minus",
+    "category": "Interface Elements",
+    "tags": ["remove user", "delete account", "unfriend"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/user-minus.svg"
+  },
+  {
+    "id": "icon-050",
+    "name": "Copy",
+    "category": "Tools & Utilities",
+    "tags": ["duplicate", "clone", "files"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/copy.svg"
+  },
+  {
+    "id": "icon-051",
+    "name": "Paste",
+    "category": "Tools & Utilities",
+    "tags": ["clipboard", "insert"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/clipboard.svg"
+  },
+  {
+    "id": "icon-052",
+    "name": "Save",
+    "category": "Tools & Utilities",
+    "tags": ["disk", "floppy", "store", "data"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/save.svg"
+  },
+  {
+    "id": "icon-053",
+    "name": "Printer",
+    "category": "Tools & Utilities",
+    "tags": ["print", "document", "office"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/09-06-2025/printer.svg"
+  }
+]

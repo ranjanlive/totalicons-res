@@ -1,0 +1,98 @@
+[
+  {
+    "id": "social-media-neon",
+    "name": "Social Media Neon",
+    "description": "A vibrant collection of neon-style social media icons perfect for modern websites and digital marketing materials. Each icon is carefully crafted with a glowing neon effect that stands out in dark environments.",
+    "icon_count": 20,
+    "category": "social",
+    "style": "neon",
+    "license": "free",
+    "price": 0,
+    "is_new": true,
+    "date_added": "2025-05-25",
+    "cover_image": "/images/packs/social-neon-cover.jpg",
+    "cover_color": "#120E2A",
+    "tags": ["social media", "neon", "glow", "facebook", "twitter", "instagram"],
+    "sample_icons": [
+      "https://res.totalicons.com/icons/07-06-2025/facebook.svg",
+      "https://res.totalicons.com/icons/07-06-2025/instagram.svg",
+      "https://res.totalicons.com/icons/07-06-2025/twitter.svg",
+      "https://res.totalicons.com/icons/07-06-2025/tiktok.svg",
+      "https://res.totalicons.com/icons/07-06-2025/linkedin.svg"
+    ],
+    "download_url": "/downloads/social-media-neon-pack.zip",
+    "file_path": "/data/social-media-neon-pack.json"
+  },
+  {
+    "id": "ui-essentials-outline",
+    "name": "UI Essentials Outline",
+    "description": "Essential UI icons in a clean outline style for your web and mobile applications. This pack includes all the most commonly used interface elements.",
+    "icon_count": 50,
+    "category": "ui",
+    "style": "outline",
+    "license": "free",
+    "price": 0,
+    "is_new": false,
+    "date_added": "2025-05-10",
+    "cover_image": "/images/packs/ui-essentials-cover.jpg",
+    "cover_color": "#F5F7FF",
+    "tags": ["interface", "ui", "outline", "web", "app", "menu", "navigation"],
+    "sample_icons": [
+      "https://res.totalicons.com/icons/packs/ui-essentials-outline/home.svg",
+      "https://res.totalicons.com/icons/packs/ui-essentials-outline/search.svg",
+      "https://res.totalicons.com/icons/packs/ui-essentials-outline/settings.svg",
+      "https://res.totalicons.com/icons/packs/ui-essentials-outline/user.svg",
+      "https://res.totalicons.com/icons/packs/ui-essentials-outline/menu.svg"
+    ],
+    "download_url": "/downloads/ui-essentials-outline-pack.zip",
+    "file_path": "/data/ui-essentials-outline-pack.json"
+  },
+  {
+    "id": "business-filled",
+    "name": "Business & Finance Filled",
+    "description": "Professional filled icons for business and finance applications. Perfect for dashboards, financial apps, and corporate websites.",
+    "icon_count": 40,
+    "category": "business",
+    "style": "filled",
+    "license": "premium",
+    "price": 19.99,
+    "is_new": true,
+    "date_added": "2025-05-30",
+    "cover_image": "/images/packs/business-finance-cover.jpg",
+    "cover_color": "#E9F7EF",
+    "tags": ["business", "finance", "filled", "chart", "money", "banking"],
+    "sample_icons": [
+      "https://res.totalicons.com/icons/packs/business-filled/chart.svg",
+      "https://res.totalicons.com/icons/packs/business-filled/wallet.svg",
+      "https://res.totalicons.com/icons/packs/business-filled/document.svg",
+      "https://res.totalicons.com/icons/packs/business-filled/presentation.svg", 
+      "https://res.totalicons.com/icons/packs/business-filled/calculator.svg"
+    ],
+    "download_url": "/downloads/business-filled-pack.zip",
+    "file_path": "/data/business-filled-pack.json"
+  },
+  {
+    "id": "ecommerce-colored",
+    "name": "E-commerce Colored",
+    "description": "Colorful e-commerce icons designed for online shops and marketplaces. Add visual appeal to your shopping platform with these vibrant icons.",
+    "icon_count": 35,
+    "category": "ecommerce",
+    "style": "colored",
+    "license": "premium",
+    "price": 24.99,
+    "is_new": false,
+    "date_added": "2025-04-15",
+    "cover_image": "/images/packs/ecommerce-colored-cover.jpg",
+    "cover_color": "#FFF0F0",
+    "tags": ["shopping", "ecommerce", "colored", "cart", "payment", "shop"],
+    "sample_icons": [
+      "https://res.totalicons.com/icons/packs/ecommerce-colored/cart.svg",
+      "https://res.totalicons.com/icons/packs/ecommerce-colored/shop.svg",
+      "https://res.totalicons.com/icons/packs/ecommerce-colored/credit-card.svg",
+      "https://res.totalicons.com/icons/packs/ecommerce-colored/tag.svg",
+      "https://res.totalicons.com/icons/packs/ecommerce-colored/delivery.svg"
+    ],
+    "download_url": "/downloads/ecommerce-colored-pack.zip",
+    "file_path": "/data/ecommerce-colored-pack.json"
+  }
+]

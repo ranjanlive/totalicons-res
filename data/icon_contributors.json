@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "total_contributors": 25,
+    "total_icons": 1000,
+    "total_countries": 15
+  },
+  "contributors": [
+    {
+      "id": "contrib-001",
+      "name": "Shayra Chumai",
+      "role": "Lead Designer",
+      "location": "Gujrat,India",
+      "country": "IN",
+      "avatar": "https://github.com/identicons/1.png",
+      "icons_contributed": 14,
+      "status": "Core Team",
+      "join_date": "2025-01-15",
+      "social": {
+        "github": "https://github.com/alexjohnson",
+        "dribbble": "https://dribbble.com/alexjohnson",
+        "twitter": "https://twitter.com/alexjohnson"
+      },
+      "specialties": ["UI Design", "Icon Systems", "Brand Identity"]
+    }
+  ]
+}

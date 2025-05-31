@@ -1,0 +1,122 @@
+[
+    {
+    "id": "icon-001",
+    "name": "Home",
+    "category": "Navigation",
+    "tags": ["house", "homepage", "main"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/home.svg"
+  },
+  {
+    "id": "icon-002",
+    "name": "Settings",
+    "category": "Tools & Utilities",
+    "tags": ["gear", "preferences", "options", "config"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/settings.svg"
+  },
+  {
+    "id": "icon-003",
+    "name": "Heart",
+    "category": "Health & Medical",
+    "tags": ["like", "love", "favorite", "health"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/heart.svg"
+  },
+  {
+    "id": "icon-004",
+    "name": "Search",
+    "category": "Interface Elements",
+    "tags": ["find", "magnify", "glass", "lookup"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/search.svg"
+  },
+  {
+    "id": "icon-005",
+    "name": "User",
+    "category": "Interface Elements",
+    "tags": ["person", "profile", "account", "avatar"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/user.svg"
+  },
+  {
+    "id": "icon-006",
+    "name": "Message",
+    "category": "Communication",
+    "tags": ["chat", "comment", "text", "message"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/message.svg"
+  },
+  {
+    "id": "icon-007",
+    "name": "Calendar",
+    "category": "Business & Finance",
+    "tags": ["date", "schedule", "event", "time"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/calendar.svg"
+  },
+  {
+    "id": "icon-008",
+    "name": "Shopping Cart",
+    "category": "E-commerce",
+    "tags": ["cart", "shop", "buy", "checkout", "basket"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/cart.svg"
+  },
+  {
+    "id": "icon-009",
+    "name": "Check",
+    "category": "Interface Elements",
+    "tags": ["tick", "done", "complete", "success"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/check.svg"
+  },
+  {
+    "id": "icon-010",
+    "name": "Clock",
+    "category": "Tools & Utilities",
+    "tags": ["time", "watch", "timer", "hour"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "outline",
+    "color_scheme": "monochrome",
+    "file_path": "https://res.totalicons.com/icons/30-05-2025/clock.svg"
+  }
+]
