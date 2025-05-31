@@ -2,25 +2,25 @@
     {
         "name": "icon_patch1",
         "icons": "10",
-        "file_path": "https://res.totalicons.com/data/icons_30_05_2025.json",
+        "file_path": "https://assets.totalicons.com/data/icons_30_05_2025.json",
         "description": "Patch 1 for icons, includes new icons and updates to existing ones."
     },
     {
         "name": "social_media_icons",
         "icons": "23",
-        "file_path": "https://res.totalicons.com/data/icons_07_06_2025.json",
-        "description": "Social media icon set including Facebook, Twitter, Instagram, LinkedIn, YouTube, Pinterest, TikTok, Snapchat, WhatsApp, Reddit, Discord, Telegram, Twitch, Slack, Mastodon, Dribbble, Flickr, and new Neon style icons for Facebook, WhatsApp, LinkedIn, GitHub, Twitter, and YouTube."
+        "file_path": "https://assets.totalicons.com/data/icons_07_06_2025.json",
+        "description": "Social media icon set including Facebook, Twitter, Instagram, LinkedIn, YouTube, Pinteassetst, TikTok, Snapchat, WhatsApp, Reddit, Discord, Telegram, Twitch, Slack, Mastodon, Dribbble, Flickr, and new Neon style icons for Facebook, WhatsApp, LinkedIn, GitHub, Twitter, and YouTube."
     },
     {
         "name": "general_icons_pack1",
         "icons": "10",
-        "file_path": "https://res.totalicons.com/data/icons_08_06_2025.json",
+        "file_path": "https://assets.totalicons.com/data/icons_08_06_2025.json",
         "description": "A pack of 10 general purpose icons including file, folder, download, upload, edit, trash, star, filter, map-pin, and bell."
     },
     {
         "name": "general_icons_pack2",
         "icons": "10",
-        "file_path": "https://res.totalicons.com/data/icons_09_06_2025.json",
+        "file_path": "https://assets.totalicons.com/data/icons_09_06_2025.json",
         "description": "A second pack of 10 general purpose icons including link, image, video, music, user-plus, user-minus, copy, paste (clipboard), save, and printer."
     }
 ]

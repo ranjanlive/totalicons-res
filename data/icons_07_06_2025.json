@@ -9,7 +9,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/facebook.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/facebook.svg"
   },
   {
     "id": "icon-012",
@@ -21,7 +21,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/twitter.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/twitter.svg"
   },
   {
     "id": "icon-013",
@@ -33,7 +33,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/instagram.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/instagram.svg"
   },
   {
     "id": "icon-014",
@@ -45,7 +45,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/linkedin.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/linkedin.svg"
   },
   {
     "id": "icon-015",
@@ -57,19 +57,19 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/youtube.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/youtube.svg"
   },
   {
     "id": "icon-016",
-    "name": "Pinterest",
+    "name": "Pinteassetst",
     "category": "Social Media",
-    "tags": ["pinterest", "pin", "social", "image", "board"],
+    "tags": ["pinteassetst", "pin", "social", "image", "board"],
     "source_format": "svg",
     "available_formats": ["svg", "png", "jpg", "webp", "ico"],
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/pinterest.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/pinteassetst.svg"
   },
   {
     "id": "icon-017",
@@ -81,7 +81,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/tiktok.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/tiktok.svg"
   },
   {
     "id": "icon-018",
@@ -93,7 +93,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/snapchat.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/snapchat.svg"
   },
   {
     "id": "icon-019",
@@ -105,7 +105,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/whatsapp.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/whatsapp.svg"
   },
   {
     "id": "icon-020",
@@ -117,7 +117,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/reddit.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/reddit.svg"
   },
   {
     "id": "icon-021",
@@ -129,7 +129,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/discord.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/discord.svg"
   },
   {
     "id": "icon-022",
@@ -141,7 +141,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/telegram.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/telegram.svg"
   },
   {
     "id": "icon-023",
@@ -153,7 +153,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/twitch.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/twitch.svg"
   },
   {
     "id": "icon-024",
@@ -165,7 +165,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/slack.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/slack.svg"
   },
   {
     "id": "icon-025",
@@ -177,7 +177,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/mastodon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/mastodon.svg"
   },
   {
     "id": "icon-026",
@@ -189,7 +189,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/dribbble.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/dribbble.svg"
   },
   {
     "id": "icon-027",
@@ -201,7 +201,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/flickr.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/flickr.svg"
   },
   {
     "id": "icon-028",
@@ -213,7 +213,7 @@
     "available_sizes": [24, 48, 64, 128, 256, 512],
     "style": "neon",
     "color_scheme": "color",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/facebook-neon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/facebook-neon.svg"
   },
   {
     "id": "icon-029",
@@ -225,7 +225,7 @@
     "available_sizes": [24, 48, 64, 128, 256, 512],
     "style": "neon",
     "color_scheme": "color",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/whatsapp-neon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/whatsapp-neon.svg"
   },
   {
     "id": "icon-030",
@@ -237,7 +237,7 @@
     "available_sizes": [24, 48, 64, 128, 256, 512],
     "style": "neon",
     "color_scheme": "color",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/linkedin-neon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/linkedin-neon.svg"
   },
   {
     "id": "icon-031",
@@ -249,7 +249,7 @@
     "available_sizes": [24, 48, 64, 128, 256, 512],
     "style": "neon",
     "color_scheme": "color",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/github-neon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/github-neon.svg"
   },
   {
     "id": "icon-032",
@@ -261,7 +261,7 @@
     "available_sizes": [24, 48, 64, 128, 256, 512],
     "style": "neon",
     "color_scheme": "color",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/twitter-neon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/twitter-neon.svg"
   },
   {
     "id": "icon-033",
@@ -273,6 +273,6 @@
     "available_sizes": [24, 48, 64, 128, 256, 512],
     "style": "neon",
     "color_scheme": "color",
-    "file_path": "https://res.totalicons.com/icons/07-06-2025/youtube-neon.svg"
+    "file_path": "https://assets.totalicons.com/icons/07-06-2025/youtube-neon.svg"
   }
 ]

@@ -14,11 +14,11 @@
     "cover_color": "#120E2A",
     "tags": ["social media", "neon", "glow", "facebook", "twitter", "instagram"],
     "sample_icons": [
-      "https://res.totalicons.com/icons/07-06-2025/facebook.svg",
-      "https://res.totalicons.com/icons/07-06-2025/instagram.svg",
-      "https://res.totalicons.com/icons/07-06-2025/twitter.svg",
-      "https://res.totalicons.com/icons/07-06-2025/tiktok.svg",
-      "https://res.totalicons.com/icons/07-06-2025/linkedin.svg"
+      "https://assets.totalicons.com/icons/07-06-2025/facebook.svg",
+      "https://assets.totalicons.com/icons/07-06-2025/instagram.svg",
+      "https://assets.totalicons.com/icons/07-06-2025/twitter.svg",
+      "https://assets.totalicons.com/icons/07-06-2025/tiktok.svg",
+      "https://assets.totalicons.com/icons/07-06-2025/linkedin.svg"
     ],
     "download_url": "/downloads/social-media-neon-pack.zip",
     "file_path": "/data/social-media-neon-pack.json"
@@ -38,11 +38,11 @@
     "cover_color": "#F5F7FF",
     "tags": ["interface", "ui", "outline", "web", "app", "menu", "navigation"],
     "sample_icons": [
-      "https://res.totalicons.com/icons/packs/ui-essentials-outline/home.svg",
-      "https://res.totalicons.com/icons/packs/ui-essentials-outline/search.svg",
-      "https://res.totalicons.com/icons/packs/ui-essentials-outline/settings.svg",
-      "https://res.totalicons.com/icons/packs/ui-essentials-outline/user.svg",
-      "https://res.totalicons.com/icons/packs/ui-essentials-outline/menu.svg"
+      "https://assets.totalicons.com/icons/packs/ui-essentials-outline/home.svg",
+      "https://assets.totalicons.com/icons/packs/ui-essentials-outline/search.svg",
+      "https://assets.totalicons.com/icons/packs/ui-essentials-outline/settings.svg",
+      "https://assets.totalicons.com/icons/packs/ui-essentials-outline/user.svg",
+      "https://assets.totalicons.com/icons/packs/ui-essentials-outline/menu.svg"
     ],
     "download_url": "/downloads/ui-essentials-outline-pack.zip",
     "file_path": "/data/ui-essentials-outline-pack.json"
@@ -62,11 +62,11 @@
     "cover_color": "#E9F7EF",
     "tags": ["business", "finance", "filled", "chart", "money", "banking"],
     "sample_icons": [
-      "https://res.totalicons.com/icons/packs/business-filled/chart.svg",
-      "https://res.totalicons.com/icons/packs/business-filled/wallet.svg",
-      "https://res.totalicons.com/icons/packs/business-filled/document.svg",
-      "https://res.totalicons.com/icons/packs/business-filled/presentation.svg", 
-      "https://res.totalicons.com/icons/packs/business-filled/calculator.svg"
+      "https://assets.totalicons.com/icons/packs/business-filled/chart.svg",
+      "https://assets.totalicons.com/icons/packs/business-filled/wallet.svg",
+      "https://assets.totalicons.com/icons/packs/business-filled/document.svg",
+      "https://assets.totalicons.com/icons/packs/business-filled/passetsentation.svg", 
+      "https://assets.totalicons.com/icons/packs/business-filled/calculator.svg"
     ],
     "download_url": "/downloads/business-filled-pack.zip",
     "file_path": "/data/business-filled-pack.json"
@@ -86,11 +86,11 @@
     "cover_color": "#FFF0F0",
     "tags": ["shopping", "ecommerce", "colored", "cart", "payment", "shop"],
     "sample_icons": [
-      "https://res.totalicons.com/icons/packs/ecommerce-colored/cart.svg",
-      "https://res.totalicons.com/icons/packs/ecommerce-colored/shop.svg",
-      "https://res.totalicons.com/icons/packs/ecommerce-colored/credit-card.svg",
-      "https://res.totalicons.com/icons/packs/ecommerce-colored/tag.svg",
-      "https://res.totalicons.com/icons/packs/ecommerce-colored/delivery.svg"
+      "https://assets.totalicons.com/icons/packs/ecommerce-colored/cart.svg",
+      "https://assets.totalicons.com/icons/packs/ecommerce-colored/shop.svg",
+      "https://assets.totalicons.com/icons/packs/ecommerce-colored/credit-card.svg",
+      "https://assets.totalicons.com/icons/packs/ecommerce-colored/tag.svg",
+      "https://assets.totalicons.com/icons/packs/ecommerce-colored/delivery.svg"
     ],
     "download_url": "/downloads/ecommerce-colored-pack.zip",
     "file_path": "/data/ecommerce-colored-pack.json"

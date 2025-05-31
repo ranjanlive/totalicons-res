@@ -3,7 +3,7 @@
     "id": "cat-001",
     "name": "Social Media",
     "description": "Icons for social platforms",
-    "icon_path": "https://res.totalicons.com/icons/07-06-2025/facebook.svg",
+    "icon_path": "https://assets.totalicons.com/icons/07-06-2025/facebook.svg",
     "search_param": "social",
     "background_color": "#4267B2",
     "color": "#ffffff"
@@ -12,7 +12,7 @@
     "id": "cat-002",
     "name": "Interface",
     "description": "UI and app interface icons",
-    "icon_path": "https://res.totalicons.com/icons/30-05-2025/search.svg",
+    "icon_path": "https://assets.totalicons.com/icons/30-05-2025/search.svg",
     "search_param": "interface",
     "background_color": "#6c5ce7",
     "color": "#ffffff"
@@ -21,7 +21,7 @@
     "id": "cat-003",
     "name": "Business",
     "description": "Professional and office icons",
-    "icon_path": "https://res.totalicons.com/icons/30-05-2025/calendar.svg",
+    "icon_path": "https://assets.totalicons.com/icons/30-05-2025/calendar.svg",
     "search_param": "business",
     "background_color": "#00b894",
     "color": "#ffffff"
@@ -30,7 +30,7 @@
     "id": "cat-004",
     "name": "E-commerce",
     "description": "Shopping and payment icons",
-    "icon_path": "https://res.totalicons.com/icons/30-05-2025/cart.svg",
+    "icon_path": "https://assets.totalicons.com/icons/30-05-2025/cart.svg",
     "search_param": "e-commerce",
     "background_color": "#ff7675",
     "color": "#ffffff"

@@ -9,7 +9,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/file.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/file.svg"
   },
   {
     "id": "icon-035",
@@ -21,7 +21,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/folder.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/folder.svg"
   },
   {
     "id": "icon-036",
@@ -33,7 +33,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/download.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/download.svg"
   },
   {
     "id": "icon-037",
@@ -45,7 +45,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/upload.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/upload.svg"
   },
   {
     "id": "icon-038",
@@ -57,7 +57,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/edit.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/edit.svg"
   },
   {
     "id": "icon-039",
@@ -69,7 +69,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/trash.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/trash.svg"
   },
   {
     "id": "icon-040",
@@ -81,7 +81,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/star.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/star.svg"
   },
   {
     "id": "icon-041",
@@ -93,19 +93,19 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/filter.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/filter.svg"
   },
   {
     "id": "icon-042",
     "name": "Map Pin",
     "category": "Navigation",
-    "tags": ["location", "marker", "place", "address", "gps"],
+    "tags": ["location", "marker", "place", "addassetss", "gps"],
     "source_format": "svg",
     "available_formats": ["svg", "png", "jpg", "webp", "ico"],
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/map-pin.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/map-pin.svg"
   },
   {
     "id": "icon-043",
@@ -117,7 +117,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/08-06-2025/bell.svg"
+    "file_path": "https://assets.totalicons.com/icons/08-06-2025/bell.svg"
   },
   {
     "id": "icon-044",
@@ -129,7 +129,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/link.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/link.svg"
   },
   {
     "id": "icon-045",
@@ -141,7 +141,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/image.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/image.svg"
   },
   {
     "id": "icon-046",
@@ -153,7 +153,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/video.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/video.svg"
   },
   {
     "id": "icon-047",
@@ -165,7 +165,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/music.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/music.svg"
   },
   {
     "id": "icon-048",
@@ -177,7 +177,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/user-plus.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/user-plus.svg"
   },
   {
     "id": "icon-049",
@@ -189,7 +189,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/user-minus.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/user-minus.svg"
   },
   {
     "id": "icon-050",
@@ -201,7 +201,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/copy.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/copy.svg"
   },
   {
     "id": "icon-051",
@@ -213,7 +213,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/clipboard.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/clipboard.svg"
   },
   {
     "id": "icon-052",
@@ -225,7 +225,7 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/save.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/save.svg"
   },
   {
     "id": "icon-053",
@@ -237,6 +237,6 @@
     "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
     "style": "outline",
     "color_scheme": "monochrome",
-    "file_path": "https://res.totalicons.com/icons/09-06-2025/printer.svg"
+    "file_path": "https://assets.totalicons.com/icons/09-06-2025/printer.svg"
   }
 ]
