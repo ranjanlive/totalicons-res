@@ -1,0 +1,62 @@
+[
+  {
+    "id": "icon-054",
+    "name": "File Filled",
+    "category": "File Management",
+    "tags": ["document", "file", "text", "data"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "filled",
+    "color_scheme": "colored",
+    "file_path": "https://assets.totalicons.com/icons/31-05-2025/file-filled.svg"
+  },
+  {
+    "id": "icon-055",
+    "name": "Folder Filled",
+    "category": "File Management",
+    "tags": ["folder", "directory", "storage", "organize"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "filled",
+    "color_scheme": "colored",
+    "file_path": "https://assets.totalicons.com/icons/31-05-2025/folder-filled.svg"
+  },
+  {
+    "id": "icon-056",
+    "name": "Zip File Filled",
+    "category": "File Management",
+    "tags": ["zip", "archive", "compress", "package"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "filled",
+    "color_scheme": "colored",
+    "file_path": "https://assets.totalicons.com/icons/31-05-2025/zip-filled.svg"
+  },
+  {
+    "id": "icon-057",
+    "name": "Video File Filled",
+    "category": "File Management",
+    "tags": ["video", "media", "movie", "play"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "filled",
+    "color_scheme": "colored",
+    "file_path": "https://assets.totalicons.com/icons/31-05-2025/video-filled.svg"
+  },
+  {
+    "id": "icon-058",
+    "name": "Music File Filled",
+    "category": "File Management",
+    "tags": ["music", "audio", "song", "sound"],
+    "source_format": "svg",
+    "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+    "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+    "style": "filled",
+    "color_scheme": "colored",
+    "file_path": "https://assets.totalicons.com/icons/31-05-2025/musicfilled.svg"
+  }
+]

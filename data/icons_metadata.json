@@ -22,5 +22,11 @@
         "icons": "10",
         "file_path": "https://assets.totalicons.com/data/icons_09_06_2025.json",
         "description": "A second pack of 10 general purpose icons including link, image, video, music, user-plus, user-minus, copy, paste (clipboard), save, and printer."
+    },
+    {
+        "name" : "file_management_icons",
+        "icons": "5",
+        "file_path": "https://assets.totalicons.com/data/icons_31_05_2025.json",
+        "description": "File management icons including file, folder, zip , video , music."
     }
 ]
