@@ -9,7 +9,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/cloud-drizzle.svg"
+  "file_path": "/icons/07-07-2025/cloud-drizzle.svg"
     },
 
     {
@@ -22,7 +22,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/partly-cloudy-with-rain.svg"
+  "file_path": "/icons/07-07-2025/partly-cloudy-with-rain.svg"
 },
 
 {
@@ -35,7 +35,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/thunderstorm-cloud.svg"
+  "file_path": "/icons/07-07-2025/thunderstorm-cloud.svg"
 },
 
 {
@@ -48,7 +48,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/heavy-rain-cloud.svg"
+  "file_path": "/icons/07-07-2025/heavy-rain-cloud.svg"
 },
 
 {
@@ -61,7 +61,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/cloud-fog.svg"
+  "file_path": "/icons/07-07-2025/cloud-fog.svg"
 },
 {
   "id": "icon-210",
@@ -73,7 +73,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/thermometer.svg"
+  "file_path": "/icons/07-07-2025/thermometer.svg"
 },
 
 {
@@ -86,7 +86,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/snow-cloud.svg"
+  "file_path": "/icons/07-07-2025/snow-cloud.svg"
 },
 {
   "id": "icon-207",
@@ -98,7 +98,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/tornado.svg"
+  "file_path": "/icons/07-07-2025/tornado.svg"
 },
 
 {
@@ -111,7 +111,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/sun-blaze.svg"
+  "file_path": "/icons/07-07-2025/sun-blaze.svg"
 },
 {
   "id": "icon-302",
@@ -123,7 +123,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/cold.svg"
+  "file_path": "/icons/07-07-2025/cold.svg"
 },
 {
   "id": "icon-303",
@@ -135,7 +135,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/rainy.svg"
+  "file_path": "/icons/07-07-2025/rainy.svg"
 }
 ,
 {
@@ -148,7 +148,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/sunny.svg"
+  "file_path": "/icons/07-07-2025/sunny.svg"
 }
 ,
 {
@@ -161,7 +161,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/cloudy.svg"
+  "file_path": "/icons/07-07-2025/cloudy.svg"
 }
 ,
 {
@@ -174,7 +174,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/windy.svg"
+  "file_path": "/icons/07-07-2025/windy.svg"
 }
 ,
 
@@ -188,7 +188,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/moderate-rain.svg"
+  "file_path": "/icons/07-07-2025/moderate-rain.svg"
 }
 ,
 {
@@ -201,7 +201,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/heavy-rain.svg"
+  "file_path": "/icons/07-07-2025/heavy-rain.svg"
 }
 ,
 {
@@ -214,7 +214,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/foggy.svg"
+  "file_path": "/icons/07-07-2025/foggy.svg"
 }
 ,
 {
@@ -227,7 +227,7 @@
   "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
   "style": "outline",
   "color_scheme": "monochrome",
-  "file_path": "/icons/05-07-2025/misty.svg"
+  "file_path": "/icons/07-07-2025/misty.svg"
 },
 {
   "id": "icon-401",
@@ -239,7 +239,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/hard-drive.svg"
+  "file_path":"/icons/07-07-2025/hard-drive.svg"
 }
 ,
 {
@@ -252,7 +252,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/desktop-computer.svg"
+  "file_path":"/icons/07-07-2025/desktop-computer.svg"
 }
 ,
 {
@@ -265,7 +265,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/smartphone.svg"
+  "file_path":"/icons/07-07-2025/smartphone.svg"
 }
 ,
 
@@ -279,7 +279,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/plug.svg"
+  "file_path":"/icons/07-07-2025/plug.svg"
 }
 ,
 {
@@ -292,7 +292,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/ai-brain.svg"
+  "file_path":"/icons/07-07-2025/ai-brain.svg"
 }
 ,
 {
@@ -305,7 +305,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/firewall.svg"
+  "file_path":"/icons/07-07-2025/firewall.svg"
 }
 ,
 {
@@ -318,7 +318,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/antenna.svg"
+  "file_path":"/icons/07-07-2025/antenna.svg"
 }
 ,
 {
@@ -331,7 +331,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/chip.svg"
+  "file_path":"/icons/07-07-2025/chip.svg"
 }
 ,
 {
@@ -344,7 +344,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/settings-cog.svg"
+  "file_path":"/icons/07-07-2025/settings-cog.svg"
 }
 ,
 {
@@ -357,7 +357,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/lock-tech.svg"
+  "file_path":"/icons/07-07-2025/lock-tech.svg"
 }
 ,
 {
@@ -370,7 +370,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/mouse.svg"
+  "file_path":"/icons/07-07-2025/mouse.svg"
 }
 ,
 {
@@ -383,7 +383,7 @@
   "available_sizes":[16,24,32,48,64,96,128,256,512],
   "style":"outline",
   "color_scheme":"monochrome",
-  "file_path":"/icons/05-07-2025/toolbox.svg"
+  "file_path":"/icons/07-07-2025/toolbox.svg"
 }
 ,
   {
