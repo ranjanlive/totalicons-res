@@ -1,0 +1,517 @@
+[
+    {
+  "id": "icon-201",
+  "name": "Cloud Drizzle",
+  "category": "Weather",
+  "tags": ["cloud", "drizzle", "mist", "light rain", "weather"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/cloud-drizzle.svg"
+    },
+
+    {
+  "id": "icon-202",
+  "name": "Partly Cloudy with Rain",
+  "category": "Weather",
+  "tags": ["cloud", "sun", "rain", "mixed weather", "forecast"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/partly-cloudy-rain.svg"
+},
+
+{
+  "id": "icon-203",
+  "name": "Thunderstorm Cloud",
+  "category": "Weather",
+  "tags": ["storm", "thunder", "lightning", "cloud", "rain"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/thunderstorm-cloud.svg"
+},
+
+{
+  "id": "icon-204",
+  "name": "Heavy Rain Cloud",
+  "category": "Weather",
+  "tags": ["rain", "storm", "cloud", "weather", "heavy rainfall"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/heavy-rain-cloud.svg"
+},
+
+{
+  "id": "icon-205",
+  "name": "Cloud Fog",
+  "category": "Weather",
+  "tags": ["cloud", "mist", "fog", "haze", "low visibility"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/cloud-fog.svg"
+},
+{
+  "id": "icon-210",
+  "name": "Thermometer",
+  "category": "Weather",
+  "tags": ["temperature", "hot", "cold", "climate", "forecast"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/thermometer.svg"
+},
+
+{
+  "id": "icon-209",
+  "name": "Snow Cloud",
+  "category": "Weather",
+  "tags": ["snow", "cloud", "winter", "forecast", "cold"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/snow-cloud.svg"
+},
+{
+  "id": "icon-207",
+  "name": "Tornado",
+  "category": "Weather",
+  "tags": ["storm", "twister", "wind", "severe weather", "danger"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/tornado.svg"
+},
+
+{
+  "id": "icon-301",
+  "name": "Sun Blaze",
+  "category": "Weather",
+  "tags": ["sun", "heat", "summer", "temperature", "sunny"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/sun-blaze.svg"
+},
+{
+  "id": "icon-302",
+  "name": "Cold",
+  "category": "Weather",
+  "tags": ["snow", "winter", "freeze", "temperature", "frost"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/cold.svg"
+},
+{
+  "id": "icon-303",
+  "name": "Rainy",
+  "category": "Weather",
+  "tags": ["rain", "cloud", "shower", "wet", "forecast"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/rainy.svg"
+}
+,
+{
+  "id": "icon-304",
+  "name": "Sunny",
+  "category": "Weather",
+  "tags": ["sun", "bright", "clear", "hot", "sky"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/sunny.svg"
+}
+,
+{
+  "id": "icon-305",
+  "name": "Cloudy",
+  "category": "Weather",
+  "tags": ["cloud", "overcast", "gray", "sky", "forecast"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/cloudy.svg"
+}
+,
+{
+  "id": "icon-306",
+  "name": "Windy",
+  "category": "Weather",
+  "tags": ["wind", "gust", "blow", "breeze", "air"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/windy.svg"
+}
+,
+
+{
+  "id": "icon-307",
+  "name": "Moderate Rain",
+  "category": "Weather",
+  "tags": ["cloud", "moderate rain", "drizzle", "forecast", "rain"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/moderate-rain.svg"
+}
+,
+{
+  "id": "icon-308",
+  "name": "Heavy Rain",
+  "category": "Weather",
+  "tags": ["storm", "heavy rain", "downpour", "wet", "forecast"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/heavy-rain.svg"
+}
+,
+{
+  "id": "icon-309",
+  "name": "Foggy",
+  "category": "Weather",
+  "tags": ["fog", "haze", "low visibility", "cloud", "mist"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/foggy.svg"
+}
+,
+{
+  "id": "icon-310",
+  "name": "Misty",
+  "category": "Weather",
+  "tags": ["mist", "light fog", "low visibility", "damp", "weather"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "outline",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/05-07-2025/misty.svg"
+},
+{
+  "id": "icon-401",
+  "name": "Hard Drive",
+  "category": "Technology",
+  "tags": ["storage", "drive", "disk", "data", "hardware"],
+  "source_format": "svg",
+  "available_formats": ["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/hard-drive.svg"
+}
+,
+{
+  "id": "icon-402",
+  "name": "Desktop Computer",
+  "category": "Technology",
+  "tags": ["pc", "monitor", "computer", "hardware", "desktop"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/desktop-computer.svg"
+}
+,
+{
+  "id":"icon-403",
+  "name":"Smartphone",
+  "category":"Technology",
+  "tags":["phone","mobile","cell","device","touchscreen"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/smartphone.svg"
+}
+,
+
+{
+  "id":"icon-404",
+  "name":"Plug",
+  "category":"Technology",
+  "tags":["power","electric","charge","adapter","connector"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/plug.svg"
+}
+,
+{
+  "id":"icon-405",
+  "name":"AI Brain",
+  "category":"Technology",
+  "tags":["cpu","ai","machine learning","intelligence","brain"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/ai-brain.svg"
+}
+,
+{
+  "id":"icon-406",
+  "name":"Firewall",
+  "category":"Technology",
+  "tags":["security","network","protection","shield","server"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/firewall.svg"
+}
+,
+{
+  "id":"icon-407",
+  "name":"Antenna",
+  "category":"Technology",
+  "tags":["signal","network","wireless","connection","broadcast"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/antenna.svg"
+}
+,
+{
+  "id":"icon-408",
+  "name":"Chip",
+  "category":"Technology",
+  "tags":["processor","cpu","microchip","hardware","circuit"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/chip.svg"
+}
+,
+{
+  "id":"icon-409",
+  "name":"Settings Cog",
+  "category":"Technology",
+  "tags":["settings","configuration","gear","tools","preferences"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/settings-cog.svg"
+}
+,
+{
+  "id":"icon-410",
+  "name":"Lock",
+  "category":"Technology",
+  "tags":["secure","privacy","security","padlock","lock"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/lock-tech.svg"
+}
+,
+{
+  "id":"icon-411",
+  "name":"Mouse",
+  "category":"Technology",
+  "tags":["cursor","input","device","computer","mouse"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/mouse.svg"
+}
+,
+{
+  "id":"icon-412",
+  "name":"Toolbox",
+  "category":"Technology",
+  "tags":["tools","maintenance","hardware","repair","kit"],
+  "source_format":"svg",
+  "available_formats":["svg","png","jpg","webp","ico"],
+  "available_sizes":[16,24,32,48,64,96,128,256,512],
+  "style":"outline",
+  "color_scheme":"monochrome",
+  "file_path":"/icons/05-07-2025/toolbox.svg"
+}
+,
+  {
+  "id": "icon-701",
+  "name": "USB Type-A",
+  "category": "Ports",
+  "tags": ["usb", "type-a", "rectangle", "connector", "computer"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/usb-type-a.svg"
+},
+{
+  "id": "icon-702",
+  "name": "USB Type-C",
+  "category": "Ports",
+  "tags": ["usb", "type-c", "oval", "connector", "reversible"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/usb-type-c.svg"
+}
+,
+{
+  "id": "icon-703",
+  "name": "3.5 mm Audio Jack",
+  "category": "Ports",
+  "tags": ["audio", "3.5mm", "jack", "headphone", "circular"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/audio-jack.svg"
+}
+,
+{
+  "id": "icon-704",
+  "name": "HDMI Port",
+  "category": "Ports",
+  "tags": ["hdmi", "video", "rectangle", "connector", "media"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/hdmi-port.svg"
+}
+,
+ {
+  "id": "icon-705",
+  "name": "Ethernet (RJ45)",
+  "category": "Ports",
+  "tags": ["ethernet", "rj45", "network", "lan", "connector"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/ethernet-rj45.svg"
+}
+ ,
+ {
+  "id": "icon-706",
+  "name": "VGA Port",
+  "category": "Ports",
+  "tags": ["vga", "video", "d-sub", "connector", "pins"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/vga-port.svg"
+},
+
+{
+  "id": "icon-707",
+  "name": "Lightning Port",
+  "category": "Ports",
+  "tags": ["lightning", "apple", "iphone", "connector", "port"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/lightning-port.svg"
+}
+,
+{
+  "id": "icon-708",
+  "name": "SD Card Slot",
+  "category": "Ports",
+  "tags": ["sd", "card", "memory", "storage", "slot"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/sd-card-slot.svg"
+}
+,
+{
+  "id": "icon-709",
+  "name": "DisplayPort",
+  "category": "Ports",
+  "tags": ["displayport", "video", "connector", "monitor", "rectangle"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/displayport.svg"
+},
+{
+  "id": "icon-710",
+  "name": "Serial Port (DB9)",
+  "category": "Ports",
+  "tags": ["serial", "db9", "connector", "legacy", "pins"],
+  "source_format": "svg",
+  "available_formats": ["svg", "png", "jpg", "webp", "ico"],
+  "available_sizes": [16, 24, 32, 48, 64, 96, 128, 256, 512],
+  "style": "mixed",
+  "color_scheme": "monochrome",
+  "file_path": "/icons/07-07-2025/serial-port-db9.svg"
+}
+
+]
