@@ -28,28 +28,12 @@
         "icons": "5",
         "file_path": "https://assets.totalicons.com/data/icons_31_05_2025.json",
         "description": "File management icons including file, folder, zip , video , music."
-    },{
-        "name": "cloud_icons_pack1",
-        "icons": "5",
-        "file_path": "https://assets.totalicons.com/data/icons_07_07_2025.json",
-        "description": "A pack of 5 cloud-related icons including cloud, fog, heavy rain, partly cloudy, and thunderstorm."
     },
     {
-        "name":"weather_icons",
-        "icons": "13",
+        "name": "general_icons_pack4",
+        "icons": "40",
         "file_path": "https://assets.totalicons.com/data/icons_07_07_2025.json",
-        "description": "A pack of 13 weather-related icons including sun, cloud, rain, snow, and more."
-    },
-    {
-        "name": "technology_icons",
-        "icons": "12",
-        "file_path": "https://assets.totalicons.com/data/icons_07_07_2025.json",
-        "description": "A pack of 12 technology-related icons including computer, smartphone, tablet, and more."
-    },
-    {
-        "name": "ports_icons",
-        "icons": "10",
-        "file_path": "https://assets.totalicons.com/data/icons_07_07_2025.json",
-        "description": "A pack of 10 port-related icons including USB Type A, USB Type C, HDMI, DisplayPort, and more."
+        "description": "A pack of 40 general purpose icons including weather, technology, ports and more."
     }
+    
 ]
